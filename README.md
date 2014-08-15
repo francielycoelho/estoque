@@ -1,0 +1,4 @@
+estoque
+=======
+
+questao sobre estoque
